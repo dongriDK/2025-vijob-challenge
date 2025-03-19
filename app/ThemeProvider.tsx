@@ -31,6 +31,8 @@ export const ThemeProvider = ({ children }: { children: ReactNode }) => {
     if (savedTheme) {
       setThemeMode(savedTheme);
       document.documentElement.className = savedTheme;
+    } else {
+      setThemeMode("light");
     }
   }, []);
 
