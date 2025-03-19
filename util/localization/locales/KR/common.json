@@ -1,0 +1,23 @@
+{
+  "base": {
+    "search": "검색",
+    "placeholder": "Github 사용자명으로 검색하기...",
+    "introduce": "Github 사용자를 검색해보세요."
+  },
+  "repo": {
+    "sort": {
+      "updated": "최근 업데이트 순",
+      "stars": "별점 많은 순",
+      "forks": "포크 많은 순"
+    },
+    "filterLanguage": "언어",
+    "noResult": "검색 결과가 없습니다",
+    "s": "의"
+  },
+  "detail": {
+    "goto": "GitHub 페이지로 이동",
+    "primaryLang": "주 언어",
+    "updated": "⏳ {{time}} 업데이트",
+    "open": "{{time}} 오픈"
+  }
+}

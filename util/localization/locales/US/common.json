@@ -1,0 +1,23 @@
+{
+  "base": {
+    "search": "Search",
+    "placeholder": "Search by Github username...",
+    "introduce": "Please search for a Github user."
+  },
+  "repo": {
+    "sort": {
+      "updated": "Recently updated",
+      "stars": "Most stars",
+      "forks": "Most forks"
+    },
+    "filterLanguage": "Language",
+    "noResult": "No repositories found",
+    "s": "'s"
+  },
+  "detail": {
+    "goto": "Go to GitHub page",
+    "primaryLang": "Primary Language",
+    "updated": "⏳ Updated {{time}} ago",
+    "open": "opened on {{time}}"
+  }
+}
